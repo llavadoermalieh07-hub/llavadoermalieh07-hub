@@ -1,6 +1,6 @@
 # Hi, I'm Ermalieh B. Llavado 👋
 
-*AI Automation Specialist 🤖 | Technical VA*
+*Fullstack Developer AI Automation I build bots + software that generate leads 🤖*
 I save founders 10+ hrs/week by automating manual work.
 
 I help businesses capture leads automatically, keep their CRM clean, and never miss a follow-up.
